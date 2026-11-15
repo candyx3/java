@@ -1,7 +1,5 @@
 public class EmployeeController
 {
-
-
 public static void main(String[] args)
 {
 //    EmployeeEntity employee1 = new EmployeeEntity(1,"Rakesh","testing",15000);
